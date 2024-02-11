@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3685aef1-bd5d-46bd-9614-f947d142f7d2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2Z7VwiEgX8N1iaASONEqx1Ygfyt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/hp/Desktop/lebmobile/lemobileye-service/src/main/java/com/medcoanalytics/lemobileyeservice/repository",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Desktop\lebmobile\lemobileye-service\src\main\java\com\medcoanalytics\lemobileyeservice\repository" />
+      <recent name="C:\Users\hp\Desktop\lebmobile\lemobileye-service\src\main\java\com\medcoanalytics\lemobileyeservice\controller" />
+      <recent name="C:\Users\hp\Desktop\lebmobile\lemobileye-service\src\main\java\com\medcoanalytics\lemobileyeservice\service\impl" />
+      <recent name="C:\Users\hp\Desktop\lebmobile\lemobileye-service\src\main\java\com\medcoanalytics\lemobileyeservice\service" />
+      <recent name="C:\Users\hp\Desktop\lebmobile\lemobileye-service\src\main\java\com\medcoanalytics\lemobileyeservice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.lemobileyeservice">
+    <configuration name="ClaimConnectMobileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="provider-claimconnect-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.medcoanalytics.claimconnect.mobileapp.ClaimConnectMobileApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.medcoanalytics.claimconnect.mobileapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClaimconnectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="provider-claimconnect-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.medcoanalytics.provider.claimconnect.ClaimconnectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealthConnectMobileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="health-connect-mobile-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.medcoanalytics.health.connect.mobile.app.HealthConnectMobileApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsuranceMobileAppService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="insurance-mobile-application-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.medcoanalytics.insurance.mobile.app.service.InsuranceMobileAppService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.medcoanalytics.insurance.mobile.app.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsuranceMobileApplicationService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="insurance-mobile-application-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.medcoanalytics.insurance.mobile.application.service.InsuranceMobileApplicationService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.medcoanalytics.insurance.mobile.application.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedicalInsuranceMobileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="lemobileye-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.medcoanalytics.medical.insurance.mobile.app.MedicalInsuranceMobileApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.medcoanalytics.medical.insurance.mobile.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lemobileyeService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="lemobileye-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.medcoanalytics.medical.insurance.lemobileyeService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lemobileyeservice" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="lemobileye-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.medcoanalytics.lemobileyeservice.lemobileyeservice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MedicalInsuranceMobileApplication" />
+        <item itemvalue="Spring Boot.InsuranceMobileAppService" />
+        <item itemvalue="Spring Boot.InsuranceMobileApplicationService" />
+        <item itemvalue="Spring Boot.ClaimConnectMobileApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3685aef1-bd5d-46bd-9614-f947d142f7d2" name="Changes" comment="" />
+      <created>1701773361617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701773361617</updated>
+      <workItem from="1701773372629" duration="1472000" />
+      <workItem from="1701838836406" duration="21726000" />
+      <workItem from="1701877960470" duration="10657000" />
+      <workItem from="1701904955283" duration="2298000" />
+      <workItem from="1701925904426" duration="9849000" />
+      <workItem from="1702013145474" duration="8855000" />
+      <workItem from="1702034781412" duration="4551000" />
+      <workItem from="1702054108252" duration="1733000" />
+      <workItem from="1702059713355" duration="5402000" />
+      <workItem from="1702075665220" duration="85000" />
+      <workItem from="1702075784061" duration="68000" />
+      <workItem from="1702097725851" duration="10039000" />
+      <workItem from="1702125653987" duration="900000" />
+      <workItem from="1702224233997" duration="4402000" />
+      <workItem from="1702298822435" duration="638000" />
+      <workItem from="1702359388187" duration="13188000" />
+      <workItem from="1702447130854" duration="11851000" />
+      <workItem from="1702479623832" duration="9165000" />
+      <workItem from="1702497465499" duration="114000" />
+      <workItem from="1702497813341" duration="3201000" />
+      <workItem from="1702530214268" duration="5374000" />
+      <workItem from="1702620127319" duration="1136000" />
+      <workItem from="1702640091547" duration="574000" />
+      <workItem from="1702708552938" duration="1678000" />
+      <workItem from="1702727773942" duration="1245000" />
+      <workItem from="1702827859944" duration="2057000" />
+      <workItem from="1702850473140" duration="6831000" />
+      <workItem from="1702883258799" duration="1200000" />
+      <workItem from="1702902380184" duration="2616000" />
+      <workItem from="1702915454319" duration="9910000" />
+      <workItem from="1702975911682" duration="11929000" />
+      <workItem from="1703055155683" duration="2127000" />
+      <workItem from="1703071150774" duration="8145000" />
+      <workItem from="1703097081796" duration="4091000" />
+      <workItem from="1703135748706" duration="9020000" />
+      <workItem from="1703313149881" duration="1928000" />
+      <workItem from="1703502522804" duration="140000" />
+      <workItem from="1703574880404" duration="8870000" />
+      <workItem from="1703657702182" duration="12205000" />
+      <workItem from="1703743520309" duration="2931000" />
+      <workItem from="1703763346388" duration="845000" />
+      <workItem from="1703782158662" duration="8284000" />
+      <workItem from="1703922411213" duration="12185000" />
+      <workItem from="1704194799543" duration="5087000" />
+      <workItem from="1704260508653" duration="9550000" />
+      <workItem from="1704282913801" duration="1696000" />
+      <workItem from="1704350051604" duration="3576000" />
+      <workItem from="1704434967822" duration="403000" />
+      <workItem from="1704787797607" duration="2476000" />
+      <workItem from="1704799722476" duration="6599000" />
+      <workItem from="1704865886691" duration="5817000" />
+      <workItem from="1704954394093" duration="16249000" />
+      <workItem from="1704980238519" duration="1374000" />
+      <workItem from="1704981652051" duration="1861000" />
+      <workItem from="1704984132530" duration="2264000" />
+      <workItem from="1705003678155" duration="1282000" />
+      <workItem from="1705124592978" duration="7398000" />
+      <workItem from="1705148250460" duration="5272000" />
+      <workItem from="1705196145218" duration="5198000" />
+      <workItem from="1705296930396" duration="660000" />
+      <workItem from="1705297689706" duration="247000" />
+      <workItem from="1705298831960" duration="10390000" />
+      <workItem from="1705382972040" duration="22306000" />
+      <workItem from="1705469801857" duration="7377000" />
+      <workItem from="1705643592861" duration="3393000" />
+      <workItem from="1705824020431" duration="674000" />
+      <workItem from="1705871496401" duration="5589000" />
+      <workItem from="1705910800964" duration="9463000" />
+      <workItem from="1705988479299" duration="997000" />
+      <workItem from="1705991288177" duration="4154000" />
+      <workItem from="1706075075240" duration="3333000" />
+      <workItem from="1706161826355" duration="1498000" />
+      <workItem from="1706184586368" duration="2272000" />
+      <workItem from="1706205942462" duration="560000" />
+      <workItem from="1706247067617" duration="4014000" />
+      <workItem from="1706267596003" duration="3298000" />
+      <workItem from="1706277006854" duration="23000" />
+      <workItem from="1706460983352" duration="3028000" />
+      <workItem from="1706507280958" duration="5437000" />
+      <workItem from="1706514255551" duration="4272000" />
+      <workItem from="1706528642210" duration="9202000" />
+      <workItem from="1706542903088" duration="1813000" />
+      <workItem from="1706545718660" duration="1327000" />
+      <workItem from="1706594798019" duration="7554000" />
+      <workItem from="1706612063356" duration="2022000" />
+      <workItem from="1706630161678" duration="5538000" />
+      <workItem from="1706681159064" duration="9252000" />
+      <workItem from="1706700949546" duration="3208000" />
+      <workItem from="1706716689545" duration="6418000" />
+      <workItem from="1706810563635" duration="11000" />
+      <workItem from="1706810611241" duration="19101000" />
+      <workItem from="1706877947999" duration="640000" />
+      <workItem from="1707466797873" duration="3513000" />
+      <workItem from="1707568975613" duration="2534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/medcoanalytics/medical/insurance/service/impl/familybenefitranges/FamilyBenefitRangeImpl.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
